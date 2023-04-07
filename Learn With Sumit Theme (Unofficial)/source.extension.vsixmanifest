@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="lwsunofficialfluentmoheshwar" Version="1.0" Language="en-US" Publisher="fluentmoheshwar" />
+        <DisplayName>Learn With Sumit Theme Unofficial</DisplayName>
+        <Description xml:space="preserve">Learn with Sumit Theme</Description>
+        <MoreInfo>https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme</MoreInfo>
+        <License>LICENSE.txt</License>
+        <Icon>icon.png</Icon>
+        <Tags>lwstheme,learnwithsumit</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn With Sumit - Official.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn with Sumit - Shades of Gray.pkgdef" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>
