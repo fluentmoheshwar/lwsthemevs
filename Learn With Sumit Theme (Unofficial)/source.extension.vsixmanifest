@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="lwsunofficialfluentmoheshwar" Version="1.0" Language="en-US" Publisher="fluentmoheshwar" />
+        <Identity Id="lwsunofficialfluentmoheshwar" Version="1.1" Language="en-US" Publisher="fluentmoheshwar" />
         <DisplayName>Learn With Sumit Theme Unofficial</DisplayName>
         <Description xml:space="preserve">Learn with Sumit Theme</Description>
         <MoreInfo>https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme</MoreInfo>
@@ -20,6 +20,15 @@
     <Assets>
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn With Sumit - Official.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn with Sumit - Shades of Gray.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn with Sumit - Blue Velvet.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn with Sumit - Peace of The Eye (Dracula).pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn with Sumit - Peace of The Eye.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn With Sumit - Professional.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn with Sumit - Simple as Light.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn With Sumit - Traditional.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn with Sumit - Vintage.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn With Sumit (Dracula).pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Learn With Sumit.pkgdef" />
     </Assets>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
