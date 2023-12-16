@@ -34,6 +34,18 @@ If you love the [Learn with Sumit Theme for VS Code](https://marketplace.visuals
     ```
 
 1. Open `".\Learn With Sumit Theme (Unofficial)\Learn With Sumit Theme (Unofficial).sln"` file.
+
+1. Select the project node and open the "Add existing Item" window: Use "Shift + Alt + A" or right-click on the project node, select Add > Existing Item.
+
+   Set filter to All Files (.) and select the converted .pkgdef file(s) that you want to
+   include in this VSIX.
+
 1. Right click on newly added `.pkgdef` file and go to properties and set the properties like below:
 
       ![properties](./docs/images/properties.png)
+
+1. Open the source.extension.vsixmanifest file, then select Assets, select New.
+1. Set Type to Microsoft.VisualStudio.VsPackage, and Source to File on filesystem.
+1. Select Browse and select the .pkgdef you added. Select OK.
+1. Edit other fields in the vsixmanifest as desired (author, version, company, etc).
+Build solution and you now have a vsix in the output folder! Your new theme is most compatible with Visual Studio 2022.
