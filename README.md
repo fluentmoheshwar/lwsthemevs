@@ -2,6 +2,10 @@
 
 If you love the [Learn with Sumit Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme) you can now enjoy the same themes in Visual Studio that make coding fun and easy.
 
+## Screenshot
+
+![Screenshot of LWS Theme](./docs/images/screenshot.png)
+
 ## Contributing
 
 ### Adding new variant
