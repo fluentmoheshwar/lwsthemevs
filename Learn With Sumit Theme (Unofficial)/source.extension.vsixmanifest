@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="fluentmoheshwar.lwsunofficialtheme" Version="1.1" Language="en-US" Publisher="fluentmoheshwar" />
         <DisplayName>Learn With Sumit Theme Unofficial</DisplayName>
-        <Description xml:space="preserve">Unofficial Visual Studio theme of Learn with Sumit! "Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer.</Description>
+        <Description xml:space="preserve">If you love the Learn with Sumit Theme for VS Code you can now enjoy the same themes in Visual Studio that make coding fun and easy.</Description>
         <MoreInfo>https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme</MoreInfo>
         <License>LICENSE.txt</License>
         <Icon>icon.png</Icon>

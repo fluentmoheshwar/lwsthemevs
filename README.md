@@ -1,6 +1,6 @@
 # Learn with Sumit Theme for Visual Studio (Unofficial)
 
-This wondeful theme is ported from [Learn with Sumit Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme)
+If you love the [Learn with Sumit Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme) you can now enjoy the same themes in Visual Studio that make coding fun and easy.
 
 ## Contributing
 
