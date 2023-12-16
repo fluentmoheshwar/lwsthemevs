@@ -1,0 +1,13 @@
+{
+  "name": "lwsthemevs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "Moheshwar Amarnath Biswas",
+  "license": "MIT"
+}
